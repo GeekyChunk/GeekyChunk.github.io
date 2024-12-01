@@ -6,7 +6,10 @@ heroImage: '/blog-placeholder-3.jpg'
 ---
 
 <div style="text-align:start;" dir="rtl">
-<h4> اپلیکیشنی جهت کمک به دانش آموزان </h4>
+
+<h4>
+بومی سازی متن باز برنامه forest تحت لایسنس GPLv3
+</h4>
 
 </div>
 
